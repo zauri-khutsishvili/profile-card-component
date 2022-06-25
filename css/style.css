@@ -93,6 +93,7 @@ html {
 .card__stats {
     width: 100%;
     margin: 2.4rem 0;
+    list-style-type: none;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
