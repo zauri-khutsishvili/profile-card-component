@@ -124,7 +124,7 @@ body {
 }
 
 @media (max-width: 600px) {
-    .body {
+    body {
         background-size: 160%;
         background-position: bottom 58vh right 44vw, top 53.2vh left 44vw;
     }
