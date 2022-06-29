@@ -25,7 +25,7 @@ body {
     background-color: var(--dark-cyan);
     background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position: bottom 36vh right 52vw, top 51.6vh left 48.3vw;
+    background-position: bottom 36vh right 51.7vw, top 51.6vh left 48.3vw;
     position: relative;
 }
 
