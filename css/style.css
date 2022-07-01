@@ -74,7 +74,7 @@ body {
 .card__age {
     font-size: 1.8rem;
     color: var(--dark-grayish-blue);
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.012em;
     display: inline-block;
 }
 
