@@ -18,6 +18,7 @@ html {
 
 body {
     height: 100vh;
+    min-height: 48.8rem;
     margin: auto calc(24.5 / 375 * 100%);
     display: flex;
     justify-content: center;
