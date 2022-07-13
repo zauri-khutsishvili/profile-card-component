@@ -12,7 +12,7 @@
 }
 
 html {
-    font-size: 10px;
+    font-size: 62.5%;
     box-sizing: border-box;
 }
 
@@ -127,7 +127,7 @@ body {
     letter-spacing: 0.03em;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 37.5em) {
     body {
         background-size: 160%;
         background-position: bottom 58vh right 44vw, top 53.2vh left 44vw;
